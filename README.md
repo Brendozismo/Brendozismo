@@ -1,3 +1,2 @@
-<div>
-  <a hreft="https://becons.ai/Brendozismo">
-    <img height="180em" src="https://github-readme-status.vercel.app/api?username=Brendozismo&show_icons=theme-dark&include_all_commits-true&count_private=true"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendozismo)](https://github.com/Brendozismo/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendozismo&show_icons=true&theme=dark)
